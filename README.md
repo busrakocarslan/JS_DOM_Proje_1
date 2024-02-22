@@ -1,0 +1,1 @@
+A simple project using JS Dom features.No separate CSS was used.
